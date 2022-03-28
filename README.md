@@ -1,3 +1,1 @@
 # CodeSignalInterviewQuestions
-# CodeSignalInterviewQuestions
-# CodeSignalInterviewQuestions
